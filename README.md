@@ -1,1 +1,1 @@
-This repository contains my machine learning prjects with python. 
+This repository contains my machine learning projects with python. 
